@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**V-34-10/V-34-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @V-34-10
+- 👀 I’m interested in Computer science, Android development, and most importantly, I do not stand still
+- 🌱 I’m currently learning C++, Java, C# and Android Studio, Unity
+- 💞️ I’m open to vacancies and collaborate with *all companies* - 📄 
+<a href="https://github.com/V-34-10/V-34-10/blob/master/Resume.pdf">CV</a>
+- 📫 How to reach me : linkedin.com/in/vladandrushchenko or <a href="https://t.me/l_l_vlad_l_l">@l_l_vlad_l_l</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+V-34-10/V-34-10is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
