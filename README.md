@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++, Java, C# and Android Studio, Unity
 - 💞️ I’m open to vacancies and collaborate with *all companies* - 📄 
 <a href="https://github.com/V-34-10/V-34-10/blob/master/Resume.pdf">CV</a>
-- 📫 How to reach me : linkedin.com/in/vladandrushchenko or <a href="https://t.me/l_l_vlad_l_l">@l_l_vlad_l_l</a>
+- 📫 How to reach me : linkedin.com/in/vladandrushchenko or <a href="https://t.me/vIaDe0">@@vIaDe0</a>
 
 <!---
 V-34-10/V-34-10is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
