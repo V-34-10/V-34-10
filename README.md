@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @V-34-10
+- 👋 Hi, I’m Vladyslav Andrushchenko
 - 👀 I’m interested in Computer science, Android development, and most importantly, I do not stand still
 - 🌱 I’m currently learning C++, Java, C# and Android Studio, Unity
 - 💞️ I’m open to vacancies and collaborate with *all companies* - 📄 
